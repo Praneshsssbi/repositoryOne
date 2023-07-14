@@ -33,7 +33,7 @@ function App({local_variable}) {
 {a.map((user) => (
         <div className="user">{user.name}</div>
       ))}
-          <input value={true} type="checkbox" onChange={handleChange} /> 
+          <input  type="checkbox" onChange={handleChange} /> 
 
     </div>
   );
