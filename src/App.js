@@ -13,7 +13,7 @@ function App({local_variable}) {
     name:'pran'
   },
   {
-    name:'rahul'
+    name:'pranesh'
   }]
   function handleChange(e) {
     setChecked(e.target.checked);
@@ -25,7 +25,7 @@ function App({local_variable}) {
       if (e.target.checked) {
 // alert("pranesh")   
    }
- <h1>{local_variable}</h1>
+ {/* <h1>{local_variable}</h1> */}
 
  <button>hh</button>
 <br>
