@@ -10,7 +10,9 @@ function App({local_variable}) {
   const [checked, setChecked] = useState(true); 
 
   const   a= [{
-    name:'pran'
+    name:'pran',
+
+    name: 'praveen'
   },
   {
     name:'pranesh'
